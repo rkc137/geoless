@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res"/>
+    <qresource prefix="/">
+        <file>res/PicPax.qss</file>
+        <file>res/check.svg</file>
+        <file>res/cross.svg</file>
+        <file>res/marker.svg</file>
+    </qresource>
+</RCC>
