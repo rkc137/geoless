@@ -28,9 +28,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 DISTFILES += \
-    res/avtodorogi.jpg \
-    res/avtodorogi_rossii_2.jpg \
-    res/Россия.json
 
 RESOURCES += \
     resourse.qrc
